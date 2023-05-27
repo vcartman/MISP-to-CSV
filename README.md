@@ -16,7 +16,13 @@ Change which threat intel you want to export at line 26:
         ]
     }
 `
-Examples are tlp:red,tlp:green,tlp:white,malware,malicious
+
+Examples are: 
+- tlp:red
+- tlp:green
+- tlp:white
+- malware
+- malicious
 
 # How do you run it?
 python .\misp-to-csv.py
