@@ -1,4 +1,4 @@
-# MISP-to-CSV
+# MISP to CSV export tool
 Python MISP to CSV export script ***without*** a PyMISP integrations. The script uses the MISP API to retrieve data from the MISP tenant. It connects to the MISP instance using the provided API credentials and makes API requests to fetch the desired data.
 
 # What to change
